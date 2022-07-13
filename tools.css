@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Paytone+One&family=Potta+One&family=Rubik+Moonrocks&display=swap");
+body {
+    background-image: url(images/image-lion-background.png);
+    background-repeat: no-repeat;
+    background-size: 500px 450px;
+    background-position: top;
+    background-color: rgba(247, 7, 7, 0.713);
+}
+
+.headerlogo {
+    margin-left: 250px;
+    border-bottom: 1px solid grey;
+}
+
+ul {
+    float: right;
+    word-spacing: 50px;
+    margin-top: -55px;
+    margin-right: 300px;
+}
+
+header ul button:hover {
+    font-size: large;
+}
+
+ul li {
+    display: inline;
+}
+
+ul button a {
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 5px 10px;
+    color: rgba(247, 7, 7, 0.713);
+}
+
+.leftfirsec {
+    color: lightgrey;
+    font-family: "Paytone One", sans-serif;
+    font-size: x-large;
+    margin-left: 270px;
+}
+
+.leftfirsec p {
+    font-family: 'Lobster', cursive;
+    font-size: small;
+}
+
+.leftfirsec button {
+    padding: 5px 20px;
+    border: 1px solid rgba(228, 217, 217, 0.372);
+    background-color: rgba(228, 217, 217, 0.372);
+    font-family: 'Lobster', cursive;
+    color: rgba(247, 7, 7, 0.713);
+}
+
+.leftfirsec button:hover {
+    font-size: large;
+}
+
+.imgone {
+    float: right;
+    margin-top: -200px;
+    height: 200px;
+    margin-right: 300px;
+    /* margin-left: -500px; */
+}
+
+.secondsectionone {
+    margin-left: 200px;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.818);
+    /* text-align: center; */
+}
+
+.containerone {
+    background-image: url(images/image-background-card1.jpg);
+    background-repeat: no-repeat;
+    background-size: 270px 200px;
+}
+
+.containerone img {
+    height: 80px;
+    width: 100px;
+    /* margin-left: 40px; */
+    margin-left: 100px;
+}
+
+.containerone h1 {
+    margin-left: 60px;
+    margin-top: -5px;
+}
+
+.containerone p {
+    color: rgba(255, 255, 255, 0.818);
+    width: 20%;
+    font-family: 'Lobster', cursive;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: x-small;
+    text-align: center;
+    /* margin-top: -30px; */
+}
+
+.secondsectiontwo {
+    margin-left: 480px;
+    margin-top: -190px;
+    color: rgba(255, 255, 255, 0.818);
+    /* text-align: center; */
+    /* border: 2px solid black; */
+}
+
+.containertwo {
+    background-image: url(images/image-background-card2.jpg);
+    background-repeat: no-repeat;
+    background-size: 270px 200px;
+}
+
+.containertwo img {
+    height: 80px;
+    width: 100px;
+    /* margin-left: 40px; */
+    margin-left: 100px;
+}
+
+.containertwo h1 {
+    margin-left: 60px;
+    margin-top: -5px;
+}
+
+.containertwo p {
+    color: rgba(255, 255, 255, 0.818);
+    font-family: 'Lobster', cursive;
+    width: 27%;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: x-small;
+    text-align: center;
+}
+
+.secondsectionthree {
+    float: right;
+    margin-left: 760px;
+    margin-top: -190px;
+    color: rgba(255, 255, 255, 0.818);
+}
+
+.containerthree {
+    background-image: url(images/image-background-card3.jpg);
+    background-repeat: no-repeat;
+    background-size: 270px 200px;
+    /* margin-left: 820px; */
+}
+
+.containerthree img {
+    height: 80px;
+    width: 100px;
+    /* margin-left: 40px; */
+    margin-left: 100px;
+}
+
+.containerthree h1 {
+    margin-left: 30px;
+    margin-top: -5px;
+}
+
+.containerthree p {
+    color: rgba(255, 255, 255, 0.818);
+    font-family: 'Lobster', cursive;
+    width: 45%;
+    margin-left: 0px;
+    margin-top: -10px;
+    font-size: x-small;
+    text-align: center;
+}
+
+.boxone {
+    width: 20%;
+    color: rgba(255, 255, 255, 0.818);
+    font-family: 'Lobster', cursive;
+    border: 2px solid rgba(255, 255, 255, 0.818);
+    padding: 50px 70px;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.boxtwo {
+    width: 20%;
+    color: rgba(255, 255, 255, 0.818);
+    font-family: 'Lobster', cursive;
+    border: 2px solid rgba(255, 255, 255, 0.818);
+    padding: 50px 70px;
+    margin-left: 660px;
+    margin-top: -215px;
+}
+
+.boxthree {
+    width: 20%;
+    color: rgba(255, 255, 255, 0.818);
+    font-family: 'Lobster', cursive;
+    border: 2px solid rgba(255, 255, 255, 0.818);
+    padding: 50px 70px;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.boxfour {
+    width: 20%;
+    color: rgba(255, 255, 255, 0.818);
+    font-family: 'Lobster', cursive;
+    border: 2px solid rgba(255, 255, 255, 0.818);
+    padding: 50px 70px;
+    margin-left: 660px;
+    margin-top: -215px;
+}
+
+.boxone:hover {
+    font-size: large;
+}
+
+.boxtwo:hover {
+    font-size: large;
+}
+
+.boxthree:hover {
+    font-size: large;
+}
+
+.boxfour:hover {
+    font-size: large;
+}

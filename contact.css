@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Paytone+One&family=Potta+One&family=Rubik+Moonrocks&display=swap");
+body {
+    background-image: url(images/image-lion-background.png);
+    background-repeat: no-repeat;
+    background-size: 500px 450px;
+    background-position: top;
+    background-color: rgba(247, 7, 7, 0.713);
+}
+
+.headerlogo {
+    margin-left: 250px;
+    border-bottom: 1px solid grey;
+}
+
+ul {
+    float: right;
+    word-spacing: 50px;
+    margin-top: -100px;
+    margin-right: 150px;
+}
+
+ul li {
+    display: inline;
+}
+
+ul button a {
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 5px 10px;
+    color: rgba(247, 7, 7, 0.713);
+}
+
+.contact {
+    font-size: x-large;
+}
+
+.contact:hover {
+    font-size: xx-large;
+}
+
+h1 {
+    color: white;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: xx-large;
+    margin-left: 100px;
+}
+
+.text p {
+    width: 80%;
+    margin-left: 100px;
+    font-family: 'Potta One', cursive;
+    color: white;
+}
+
+.input {
+    margin-left: 100px;
+}
+
+textarea {
+    height: 100px;
+    width: 590px;
+    color: gray;
+}
+
+.checkbox p {
+    color: #ffff;
+    font-family: 'Potta One', cursive;
+    margin-left: 100px;
+}
+
+.check {
+    margin-left: 100px;
+}
+
+.radio {
+    color: #ffff;
+    font-family: 'Potta One', cursive;
+    margin-left: 100px;
+}
+
+button {
+    padding: 5px 20px;
+    color: rgba(247, 7, 7, 0.713);
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+
+}

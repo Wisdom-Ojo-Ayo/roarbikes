@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Paytone+One&family=Potta+One&family=Rubik+Moonrocks&display=swap");
+body {
+    background-image: url(images/image-lion-background.png);
+    background-repeat: no-repeat;
+    background-size: 500px 450px;
+    background-position: top;
+    background-color: rgba(247, 7, 7, 0.713);
+}
+
+.headerlogo {
+    margin-left: 250px;
+    border-bottom: 1px solid grey;
+}
+
+ul {
+    float: right;
+    word-spacing: 50px;
+    margin-top: -55px;
+    margin-right: 300px;
+}
+
+ul li {
+    display: inline;
+}
+
+ul button a {
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 5px 10px;
+    color: rgba(247, 7, 7, 0.713);
+}
+
+.about {
+    border: 2px solid black;
+    font-size: x-large;
+}
+
+.about:hover {
+    font-size: xx-large;
+}
+
+span {
+    color: white;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 500px;
+}
+
+p {
+    width: 80%;
+    text-align: center;
+    margin-left: 80px;
+    font-family: 'Potta One', cursive;
+    color: white;
+}
